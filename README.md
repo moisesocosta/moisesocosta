@@ -1,4 +1,4 @@
-## Olá, eu sou o Moisés Oliveira Costa 👋
+## Olá, eu sou o Moisés! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <div>
   <a href="https://github.com/moisesocosta">
