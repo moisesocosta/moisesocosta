@@ -2,5 +2,5 @@
 
 ## Olá, eu sou o Moisés! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-![wlsf82's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesocosta&show_icons=true&theme=radical)
+![moisesocosta's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesocosta&show_icons=true&theme=radical)
   
