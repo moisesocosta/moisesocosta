@@ -2,11 +2,4 @@
 
 ## Olá, eu sou o Moisés! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=moisesocosta&show_icons=true&theme=radical" style="width: 300px; height: 100px;"/>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesocosta&layout=compact&langs_count=7&theme=radical" style="width: 300px; height: 100px;"/>
-  </div>
-</div>
+![moisesocosta's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesocosta&show_icons=true&theme=radical)
